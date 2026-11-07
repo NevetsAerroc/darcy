@@ -1,0 +1,6 @@
+{
+  "name": "Institución Educativa Alas de Arte",
+  "description": "Institución Educativa Oficial Alas de Arte en Quindío: educación pública rural inclusiva donde el arte, la danza, el teatro y la música enseñan a volar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
